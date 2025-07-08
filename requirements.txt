@@ -1,0 +1,13 @@
+python-telegram-bot==21.1.1
+pandas==2.2.2
+numpy==1.26.4
+requests==2.32.3
+scikit-learn==1.5.0
+pandas-ta==0.3.14b
+torch==2.3.0+cu121
+python-dotenv==1.0.1
+aiohttp==3.9.5  # Для асинхронних HTTP запитів
+cachetools==5.3.3  # Кешування запитів
+diskcache==5.6.3
+torchvision==0.18.0+cu121
+torchaudio==2.3.0
